@@ -31,4 +31,4 @@ terraform.rc
 
 #ignore all public and private keys
 *.pub
-*key
+*.key
